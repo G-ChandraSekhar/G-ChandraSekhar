@@ -2,10 +2,10 @@
 <h3 align="center">Software Engineer | ML/AI Systems | Recent MS CS Grad @ Stony Brook University</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/chandra-sekhar-govindarajula/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:chandrasekhar.govi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://YOUR-PORTFOLIO-SITE.com" target="_blank">
@@ -74,24 +74,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" width="60%" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin"/></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=social&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/chandra-sekhar-govindarajula/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin"/></a>
+  <a href="mailto:chandrasekhar.govi@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=social&logo=gmail"/></a>
 </p>
 
 <p align="center"><i>⭐️ Open to SDE / MLE new-grad opportunities — let's talk!</i></p>
