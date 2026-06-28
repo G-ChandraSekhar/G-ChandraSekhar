@@ -71,11 +71,10 @@
 
 ---
 
-### 📫 Let's Connect
+📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chandra-sekhar-govindarajula/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin"/></a>
-  <a href="mailto:chandrasekhar.govi@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=social&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
-
 <p align="center"><i>⭐️ Open to SDE / MLE new-grad opportunities — let's talk!</i></p>
