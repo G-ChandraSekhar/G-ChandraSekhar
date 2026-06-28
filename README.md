@@ -8,9 +8,6 @@
   <a href="mailto:chandrasekhar.govi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://YOUR-PORTFOLIO-SITE.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -23,7 +20,7 @@
 - 🛠️ Also worked as a **Software Engineer @ e2e Rosh IT Solutions**, Bengaluru
 - 🧠 Passionate about **distributed systems**, **agentic AI**, and **scalable backend architecture**
 - 🟢 Currently looking for **SDE / MLE new-grad roles** — open to relocation
-- 📍 Based in New York | F-1 OPT / STEM OPT eligible
+- 📍 Based in New York, NY 
 
 ---
 
