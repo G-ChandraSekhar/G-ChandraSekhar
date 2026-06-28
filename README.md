@@ -2,14 +2,11 @@
 <h3 align="center">Software Engineer | ML/AI Systems | Recent MS CS Grad @ Stony Brook University</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/chandra-sekhar-govindarajula)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:chandrasekhar.govi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://YOUR-PORTFOLIO-SITE.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -23,7 +20,7 @@
 - 🛠️ Also worked as a **Software Engineer @ e2e Rosh IT Solutions**, Bengaluru
 - 🧠 Passionate about **distributed systems**, **agentic AI**, and **scalable backend architecture**
 - 🟢 Currently looking for **SDE / MLE new-grad roles** — open to relocation
-- 📍 Based in New York | F-1 OPT / STEM OPT eligible
+- 📍 Based in New York, NY
 
 ---
 
@@ -77,11 +74,11 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/chandra-sekhar-govindarajula/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="52" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:chandrasekhar.govi@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="52" height="52" alt="Email"/>
   </a>
 </p>
